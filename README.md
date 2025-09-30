@@ -30,7 +30,16 @@
 - 🤔 I’m looking for help with ...
 [ Special AI ]
 
-## -->
+ -->
 
 ## Would You want 📫 Connect with me
 [Twitter](https://x.com/spyder_net) | [Telegram](https://telegram.me/gplat_bot) | [ website](https://sites.google.com/view/irffunfacts)
+
+
+## 💬 Chat with my AI Bot
+She Knows Everything
+
+[![Chat with AI](https://img.shields.io/badge/Chat_with_AI-gray?style=for-the-badge&logo=instagram)](https://aistudio.instagram.com/ai/452203384613842?utm_source=ai_agent)
+
+## KaththuKutty 🤓
+![Coding GIF](https://i.pinimg.com/originals/48/a7/6b/48a76bca22863c3c88444dfaed765ed0.gif)
