@@ -6,6 +6,7 @@
 
 ## 📂 Projects
 - [Nothing Reminder](https://spydernet3.github.io/Nothing-Reminder/)
+- [ Smart Youtube Filter](https://you-tube-seven.vercel.app/)
 - [QR Code Generator](https://spydernet3.github.io/QR-Generator/)
 - [ Multi Website Browser](https://spydernet3.github.io/multi_website_browser/)
 - [ Farewell Wishes](https://spydernet3.github.io/farewell/)
