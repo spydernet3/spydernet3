@@ -13,7 +13,8 @@
 - [Live Audio Transcrib](https://spydernet3.github.io/live-audio-transcrib/)
 - [ Battery Health Monitor](https://spydernet3.github.io/Battery_Health_Monitor/)
 - [ Notepad](https://spydernet3.github.io/Notepad/)
-- [ AUto Mailing ](https://github.com/spydernet3/AUTO-MAILING.git)
+- [ Auto Mailing ](https://github.com/spydernet3/AUTO-MAILING.git)
+- [ Auto Sms ](https://github.com/spydernet3/Text-messaging-.git)
 ## 📈 GitHub Stats
 ![Spyder's GitHub stats](https://github-readme-stats.vercel.app/api?username=spydernet3&show_icons=true&theme=radical)
 
