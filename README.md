@@ -1,5 +1,76 @@
 ## Hi there 👋
 
+# My Stories
+
+<table>
+  <tr>
+    <td align="center">
+      <figure>
+        <img src="assets/story1.png" width="150" style="border-radius: 50%;" alt="Story 1" />
+        <figcaption>Nothing Reminder</figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        <img src="assets/story2.png" width="150" style="border-radius: 50%;" alt="Story 2" />
+        <figcaption>Smart YouTube Filter</figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        <img src="assets/story3.png" width="150" style="border-radius: 50%;" alt="Story 3" />
+        <figcaption>QR Code Gen</figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        <img src="assets/story4.png" width="150" style="border-radius: 50%;" alt="Story 4" />
+        <figcaption>Multi Web Browser</figcaption>
+      </figure>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <figure>
+        <img src="assets/story5.png" width="150" style="border-radius: 50%;" alt="Story 5" />
+        <figcaption>Farewell Wishes</figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        <img src="assets/story6.png" width="150" style="border-radius: 50%;" alt="Story 6" />
+        <figcaption>Live Audio Transcrib</figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        <img src="assets/story7.png" width="150" style="border-radius: 50%;" alt="Story 7" />
+        <figcaption>Battery Health Monitor</figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        <img src="assets/story8.png" width="150" style="border-radius: 50%;" alt="Story 8" />
+        <figcaption>Note Pad</figcaption>
+      </figure>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <figure>
+        <img src="assets/story9.png" width="150" style="border-radius: 50%;" alt="Story 9" />
+        <figcaption>Auto Mail</figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        <img src="assets/story10.png" width="150" style="border-radius: 50%;" alt="Story 10" />
+        <figcaption>Auto SMS</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
 ## 🛠 Skills
 - Python, JavaScript, HTML/CSS
 - AI,Mini Apps, Website Designing,Etc
