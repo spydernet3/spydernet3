@@ -57,17 +57,6 @@
   </tr>
   <tr>
     <td align="center">
-      <figure>
-        <img src="assets/story9.png" width="150" style="border-radius: 50%;" alt="Story 9" />
-        <figcaption>Auto Mail</figcaption>
-      </figure>
-    </td>
-    <td align="center">
-      <figure>
-        <img src="assets/story10.png" width="150" style="border-radius: 50%;" alt="Story 10" />
-        <figcaption>Auto SMS</figcaption>
-      </figure>
-    </td>
   </tr>
 </table>
 
