@@ -58,7 +58,7 @@
     <td align="center">
       <figure>
         <img src="assets/story9.png" width="150" style="border-radius: 50%;" alt="Story 9" />
-        <figcaption>Smart Card</figcaption>
+        <figcaption>Meta Card</figcaption>
       </figure>
     </td>
   </tr>
@@ -79,7 +79,7 @@
 - [ Notepad](https://spydernet3.github.io/Notepad/)
 - [ Auto Mailing ](https://github.com/spydernet3/AUTO-MAILING.git)
 - [ Auto Sms ](https://github.com/spydernet3/Text-messaging-.git)
-- [ Smart Card ](https://spydernet3.github.io/Smart-Card/)
+- [ Meta Card ](https://spydernet3.github.io/Meta-Card/)
 
 ## 📈 GitHub Stats
 ![Spyder's GitHub stats](https://github-readme-stats.vercel.app/api?username=spydernet3&show_icons=true&theme=radical)
