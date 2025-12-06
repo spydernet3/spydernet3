@@ -6,25 +6,25 @@
     <td align="center">
       <figure>
         <img src="assets/story1.png" width="150" style="border-radius: 50%;" alt="Story 1" />
-        <figcaption>Nothing Reminder</figcaption>
+        <figcaption><a href="https://spydernet3.github.io/Nothing-Reminder/">Nothing Reminder</a></figcaption>
       </figure>
     </td>
     <td align="center">
       <figure>
         <img src="assets/story2.png" width="150" style="border-radius: 50%;" alt="Story 2" />
-        <figcaption>Smart YouTube Filter</figcaption>
+        <figcaption><a href="https://you-tube-seven.vercel.app/">Smart YouTube Filter</a></figcaption>
       </figure>
     </td>
     <td align="center">
       <figure>
         <img src="assets/story3.png" width="150" style="border-radius: 50%;" alt="Story 3" />
-        <figcaption>QR Code Gen</figcaption>
+        <figcaption><a href="https://spydernet3.github.io/QR-Generator/">QR Code Gen</a></figcaption>
       </figure>
     </td>
     <td align="center">
       <figure>
         <img src="assets/story4.png" width="150" style="border-radius: 50%;" alt="Story 4" />
-        <figcaption>Multi Web Browser</figcaption>
+        <figcaption><a href="https://spydernet3.github.io/multi_website_browser/">Multi Web Browser</a></figcaption>
       </figure>
     </td>
   </tr>
@@ -32,25 +32,25 @@
     <td align="center">
       <figure>
         <img src="assets/story5.png" width="150" style="border-radius: 50%;" alt="Story 5" />
-        <figcaption>Farewell Wishes</figcaption>
+        <figcaption><a href="https://spydernet3.github.io/farewell/">Farewell Wishes</a></figcaption>
       </figure>
     </td>
     <td align="center">
       <figure>
         <img src="assets/story6.png" width="150" style="border-radius: 50%;" alt="Story 6" />
-        <figcaption>Live Audio Transcrib</figcaption>
+        <figcaption><a href="https://spydernet3.github.io/live-audio-transcrib/">Live Audio Transcrib</a></figcaption>
       </figure>
     </td>
     <td align="center">
       <figure>
         <img src="assets/story7.png" width="150" style="border-radius: 50%;" alt="Story 7" />
-        <figcaption>Battery Health Monitor</figcaption>
+        <figcaption><a href="https://spydernet3.github.io/Battery_Health_Monitor/">Battery Health Monitor</a></figcaption>
       </figure>
     </td>
     <td align="center">
       <figure>
         <img src="assets/story8.png" width="150" style="border-radius: 50%;" alt="Story 8" />
-        <figcaption>Note Pad</figcaption>
+        <figcaption><a href="https://spydernet3.github.io/Notepad/">Note Pad</a></figcaption>
       </figure>
     </td>
   </tr>
@@ -58,7 +58,7 @@
     <td align="center">
       <figure>
         <img src="assets/story9.png" width="150" style="border-radius: 50%;" alt="Story 9" />
-        <figcaption>Meta Card</figcaption>
+        <figcaption><a href="https://spydernet3.github.io/Meta-Card/">Meta Card</a></figcaption>
       </figure>
     </td>
   </tr>
