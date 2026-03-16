@@ -62,6 +62,14 @@
       </figure>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <figure>
+        <img src="assets/story10.png" width="150" style="border-radius: 50%;" alt="Story 10" />
+        <figcaption><a href="https://github.com/spydernet3/Keywords-News-Alerts">Keywords News Alerts</a></figcaption>
+      </figure>
+    </td>
+  </tr>
 </table>
 
 ## 🛠 Skills
@@ -80,6 +88,7 @@
 - [ Auto Mailing ](https://github.com/spydernet3/AUTO-MAILING.git)
 - [ Auto Sms ](https://github.com/spydernet3/Text-messaging-.git)
 - [ Meta Card ](https://spydernet3.github.io/Meta-Card/)
+- [ Keywords Alerts ](https://github.com/spydernet3/Keywords-News-Alerts)
 
 ## 📈 GitHub Stats
 ![Spyder's GitHub stats](https://github-readme-stats.vercel.app/api?username=spydernet3&show_icons=true&theme=radical)
