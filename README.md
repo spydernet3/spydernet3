@@ -1,80 +1,18 @@
 ## Hi there 👋 [ Ads & Tracker Free Hub 🔥 ]
-# My Stories
-
-<table>
-  <tr>
-    <td align="center">
-      <figure>
-        <img src="assets/story1.png" width="150" style="border-radius: 50%;" alt="Story 1" />
-        <figcaption><a href="https://spydernet3.github.io/Nothing-Reminder/">Nothing Reminder</a></figcaption>
-      </figure>
-    </td>
-    <td align="center">
-      <figure>
-        <img src="assets/story2.png" width="150" style="border-radius: 50%;" alt="Story 2" />
-        <figcaption><a href="https://you-tube-seven.vercel.app/">Smart YouTube Filter</a></figcaption>
-      </figure>
-    </td>
-    <td align="center">
-      <figure>
-        <img src="assets/story3.png" width="150" style="border-radius: 50%;" alt="Story 3" />
-        <figcaption><a href="https://spydernet3.github.io/QR-Generator/">QR Code Gen</a></figcaption>
-      </figure>
-    </td>
-    <td align="center">
-      <figure>
-        <img src="assets/story4.png" width="150" style="border-radius: 50%;" alt="Story 4" />
-        <figcaption><a href="https://spydernet3.github.io/multi_website_browser/">Multi Web Browser</a></figcaption>
-      </figure>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <figure>
-        <img src="assets/story5.png" width="150" style="border-radius: 50%;" alt="Story 5" />
-        <figcaption><a href="https://spydernet3.github.io/farewell/">Farewell Wishes</a></figcaption>
-      </figure>
-    </td>
-    <td align="center">
-      <figure>
-        <img src="assets/story6.png" width="150" style="border-radius: 50%;" alt="Story 6" />
-        <figcaption><a href="https://spydernet3.github.io/live-audio-transcrib/">Live Audio Transcrib</a></figcaption>
-      </figure>
-    </td>
-    <td align="center">
-      <figure>
-        <img src="assets/story7.png" width="150" style="border-radius: 50%;" alt="Story 7" />
-        <figcaption><a href="https://spydernet3.github.io/Battery_Health_Monitor/">Battery Health Monitor</a></figcaption>
-      </figure>
-    </td>
-    <td align="center">
-      <figure>
-        <img src="assets/story8.png" width="150" style="border-radius: 50%;" alt="Story 8" />
-        <figcaption><a href="https://spydernet3.github.io/Notepad/">Note Pad</a></figcaption>
-      </figure>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <figure>
-        <img src="assets/story9.png" width="150" style="border-radius: 50%;" alt="Story 9" />
-        <figcaption><a href="https://spydernet3.github.io/Meta-Card/">Meta Card</a></figcaption>
-      </figure>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <figure>
-        <img src="assets/story10.png" width="150" style="border-radius: 50%;" alt="Story 10" />
-        <figcaption><a href="https://github.com/spydernet3/Keywords-News-Alerts">Keywords News Alerts</a></figcaption>
-      </figure>
-    </td>
-  </tr>
-</table>
 
 ## 🛠 Skills
 - Python, JavaScript, HTML/CSS
-- AI,Mini Apps, Website Designing,Etc
+- AI
+- Mini Apps
+- Website Designing
+- Automation Bot
+- Social Media Handling
+- Google Business and SEO
+- Blog writing
+- Affiliate Program Guidence
+- Web app creation
+- Type writing
+- MS Office And GAS
 
 ## 📂 Projects
 - [Nothing Reminder](https://spydernet3.github.io/Nothing-Reminder/)
@@ -89,6 +27,7 @@
 - [ Auto Sms ](https://github.com/spydernet3/Text-messaging-.git)
 - [ Meta Card ](https://spydernet3.github.io/Meta-Card/)
 - [ Keywords Alerts ](https://github.com/spydernet3/Keywords-News-Alerts)
+- [Mileage & Battery Life Cycle Tracker ](https://github.com/spydernet3/Mileage-and-Battery-Life-cycle-tracker)
 
 ## 📈 GitHub Stats
 ![Spyder's GitHub stats](https://github-readme-stats.vercel.app/api?username=spydernet3&show_icons=true&theme=radical)
