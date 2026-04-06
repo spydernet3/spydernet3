@@ -13,6 +13,7 @@
 - Web app creation
 - Type writing
 - MS Office And GAS
+- Website Designing (No Code)
 
 ## 📂 Projects
 - [Nothing Reminder](https://spydernet3.github.io/Nothing-Reminder/)
@@ -28,6 +29,7 @@
 - [ Meta Card ](https://spydernet3.github.io/Meta-Card/)
 - [ Keywords Alerts ](https://github.com/spydernet3/Keywords-News-Alerts)
 - [Mileage & Battery Life Cycle Tracker ](https://github.com/spydernet3/Mileage-and-Battery-Life-cycle-tracker)
+- [CV Portfolio ](https://github.com/spydernet3/cv-portfolio)
 
 ## 📈 GitHub Stats
 ![Spyder's GitHub stats](https://github-readme-stats.vercel.app/api?username=spydernet3&show_icons=true&theme=radical)
